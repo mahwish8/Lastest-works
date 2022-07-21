@@ -3,7 +3,7 @@
 21-jul-2022
 
 ### Project Title
-git hub Project
+git hub Upload  Project
 
 ### Description
 using the local git repositry and Github  repositry to stage, create, and do other requried mentioned in the rubic to get the best Knowlage about git commands Here the bichshare project is used for the purpose of applying the commands.
