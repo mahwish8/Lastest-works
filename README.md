@@ -22,7 +22,7 @@ bickshare.py
 
 CSV Files
   [1]Chicago.csv
-  [2]New_York_City.csv
+  [2]New_York_ City.csv
   [3] Washington.csv
 
 Credits
